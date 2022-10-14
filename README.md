@@ -1,0 +1,2 @@
+# classmagic-hinter
+For ESHTTC
